@@ -1,4 +1,4 @@
-# xfactory
+# xFactory
 <hr>
 # Smart AI Platform for Future Manufacturing
 > 🧠 Built at [Hackathon Name], 2025 – by Xarch Labs
