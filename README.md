@@ -67,8 +67,6 @@ All of this is presented in an accessible, scalable platform even small manufact
 
 ## 🎥 Demo
 
-> [Insert Link to Live Demo or Video]
-
 ---
 
 ## 🌱 Impact
@@ -90,14 +88,6 @@ Built by a passionate team of builders, engineers & dreamers.
 ## ⚠️ Note
 
 Certain aspects of the project, including proprietary models, custom detection logic, and waste optimization methodology, are kept confidential for ongoing development and research.
-
----
-
-## 📬 Contact
-
-**Founder**: Yash  
-**Company**: [Xarch Labs](https://xarch.in)  
-**Email**: comingsoon@xarch.in
 
 ---
 
