@@ -1,7 +1,6 @@
 # xFactory
 <hr>
-# Smart AI Platform for Future Manufacturing
-> 🧠 Built at [Hackathon Name], 2025 – by Xarch Labs
+# Smart AI Platform for Manufacturing
 
 XFactory is an intelligent AI-powered platform designed to transform modern manufacturing by enabling small to medium-sized factories to monitor, analyze, and improve operations with cutting-edge automation and actionable insights — all in real-time.
 
